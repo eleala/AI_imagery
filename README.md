@@ -1,4 +1,4 @@
-# Replication package — *AI Imagery in News* (PNAS)
+# Replication package 
 
 This repository contains the code and data needed to reproduce every analysis,
 figure, and table in the paper.
